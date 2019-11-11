@@ -135,7 +135,7 @@ class CBF_RRT:
         return (x,u)
 
     def plot_traj(self,x,u):
-        t_span = np.linspace(0,self.T,self.N)
+        #t_span = np.linspace(0,self.T,self.N)
 
         fig, ax = plt.subplots()
 
