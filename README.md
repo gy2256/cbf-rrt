@@ -1,4 +1,4 @@
-# cbf-rrt
+# CBF-RRT
 * Arxiv Paper: https://arxiv.org/abs/1907.06722
 * ACM Paper: https://dl.acm.org/doi/10.1145/3365265.3365282
 
@@ -9,7 +9,7 @@
 ## Dependenicies
 * Python 3.7.3
 * Numpy 1.16.2
-* Gurobi 8.1.1 (Free for education usages)
+* Gurobi 8.1.1 (Free for education usages: https://www.gurobi.com/)
 
 
 ## Files Explanation
