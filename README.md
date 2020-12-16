@@ -1,4 +1,6 @@
 # cbf-rrt
+* Arxiv Paper: https://arxiv.org/abs/1907.06722
+* ACM Paper: https://dl.acm.org/doi/10.1145/3365265.3365282
 
 ## Tested Opearting Systems
 * Ubuntu 18.04
