@@ -1,6 +1,10 @@
 # CBF-RRT
-* Arxiv Paper: https://arxiv.org/abs/1907.06722
-* ACM Paper: https://dl.acm.org/doi/10.1145/3365265.3365282
+## Publication
+Yang, Guang, et al. "Sampling-based motion planning via control barrier functions." Proceedings of the 2019 3rd International Conference on Automation, Control and Robots. 2019.
+
+[Arxiv Paper](https://arxiv.org/abs/1907.06722)
+
+[ACM Paper](https://dl.acm.org/doi/10.1145/3365265.3365282)
 
 ## Dependenicies
 * Python 3.7.3
