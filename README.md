@@ -1,4 +1,10 @@
 # CBF-RRT
+## Application
+The Control Barrier Function based Rapidly-exploring Random Tree (CBF-RRT) motion planning algorithm is implemented in this factory application. In this factory scenario, a holonomic robot must navigate around obstacles to reach its designated workstation.
+
+[UGV application using CBF-RRT](https://www.youtube.com/watch?v=sXdp2Gbu_m0)
+
+
 ## Publication
 ```
 @inproceedings{10.1145/3365265.3365282,
